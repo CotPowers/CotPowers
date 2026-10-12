@@ -9,7 +9,7 @@
     proyecto-3.png 1280x640   banner del proyecto 3
 ============================================================ -->
 
-![Cabecera](./assets/header.png)
+![Cabecera](./assets/Banner.jpg)
 
 <div align="center">
 
