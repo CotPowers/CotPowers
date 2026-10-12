@@ -31,8 +31,8 @@ Vivo en San Vicente del Raspeig (Alicante, España). Estoy aprendiendo y constru
 ## Encuéntrame en
 
 <!-- Cambia los enlaces TU_USUARIO por los tuyos y borra los que no uses -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-TU_USUARIO-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]((https://www.linkedin.com/in/david-alejandro-camacho-moreno-852a90201/))
-[![Instagram](https://img.shields.io/badge/Instagram-@TU_USUARIO-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)]((https://www.instagram.com/david_cot))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David-Camacho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]((https://www.linkedin.com/in/david-alejandro-camacho-moreno-852a90201/))
+[![Instagram](https://img.shields.io/badge/Instagram-@david_cot-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)]((https://www.instagram.com/david_cot))
 [![Email](https://img.shields.io/badge/Email-warpwatch08@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:warpwatch08@gmail.com)
 
 ## Tecnologías con las que trabajo
