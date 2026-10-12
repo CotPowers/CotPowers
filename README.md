@@ -47,14 +47,13 @@ Vivo en San Vicente del Raspeig (Alicante, España). Estoy aprendiendo y constru
 
 [![PyParaTodos](https://img.shields.io/github/stars/CotPowers/PyParaTodos?label=PyParaTodos&style=social)](https://github.com/CotPowers/PyParaTodos)
 
+<!-- ============================================================
 ### 🧩 Proyecto 2
 <a href="https://github.com/CotPowers"><img src="./assets/proyecto-2.png" style="height: 60%; width:60%;"/></a>
 
-<!-- Cambia el enlace y el nombre del repo cuando lo tengas -->
-
 ### 🏠 Proyecto 3
 <a href="https://github.com/CotPowers"><img src="./assets/proyecto-3.png" style="height: 60%; width:60%;"/></a>
-
+============================================================ -->
 ## Estadísticas de GitHub
 
 <p align="center">
