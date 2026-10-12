@@ -18,7 +18,6 @@
 # Hola, soy David 👋
 ### Desarrollador en formación · Python · Homelab · Automatización
 
-[![Visitas](https://komarev.com/ghpvc/?username=CotPowers&style=for-the-badge&color=1f6feb&labelColor=101010)](https://github.com/CotPowers)
 [![Seguidores](https://img.shields.io/github/followers/CotPowers?style=for-the-badge&logo=github&labelColor=101010&color=1f6feb)](https://github.com/CotPowers?tab=followers)
 [![Estrellas](https://img.shields.io/github/stars/CotPowers?style=for-the-badge&logo=github&labelColor=101010&color=1f6feb)](https://github.com/CotPowers?tab=repositories)
 
@@ -30,9 +29,8 @@ Vivo en San Vicente del Raspeig (Alicante, España). Estoy aprendiendo y constru
 
 ## Encuéntrame en
 
-<!-- Cambia los enlaces TU_USUARIO por los tuyos y borra los que no uses -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-David-Camacho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]((https://www.linkedin.com/in/david-alejandro-camacho-moreno-852a90201/))
-[![Instagram](https://img.shields.io/badge/Instagram-@david_cot-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)]((https://www.instagram.com/david_cot))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Camacho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/david-alejandro-camacho-moreno-852a90201/)
+[![Instagram](https://img.shields.io/badge/Instagram-@david__cot-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/david_cot)
 [![Email](https://img.shields.io/badge/Email-warpwatch08@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:warpwatch08@gmail.com)
 
 ## Tecnologías con las que trabajo
