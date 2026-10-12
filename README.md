@@ -43,7 +43,7 @@ Vivo en San Vicente del Raspeig (Alicante, España). Estoy aprendiendo y constru
 ## Proyectos destacados
 
 ### 🐍 Python Para Todos
-<a href="https://github.com/CotPowers/PyParaTodos"><img src="./assets/proyecto-1.png" style="height: 60%; width:60%;"/></a>
+<a href="https://github.com/CotPowers/PyParaTodos"><img src="./assets/BannerPyParaTodos.jpg" style="height: 60%; width:60%;"/></a>
 
 [![PyParaTodos](https://img.shields.io/github/stars/CotPowers/PyParaTodos?label=PyParaTodos&style=social)](https://github.com/CotPowers/PyParaTodos)
 
