@@ -13,8 +13,6 @@
 
 <div align="center">
 
-<img src="./assets/avatar.png" width="140" alt="David Powers" style="border-radius:50%"/>
-
 # Hola, soy David 👋
 ### Desarrollador en formación · Python · Homelab · Automatización
 
