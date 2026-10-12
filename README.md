@@ -2,7 +2,7 @@
   PERFIL DE GITHUB · CotPowers
   Para personalizar solo necesitas SUSTITUIR las imágenes de /assets
   (mismo nombre de archivo):
-    header.png     1280x320   cabecera
+    Banner.jpg     1280x320   cabecera
     avatar.png     400x400    foto / logo
     proyecto-1.png 1280x640   banner del proyecto 1
     proyecto-2.png 1280x640   banner del proyecto 2
