@@ -21,7 +21,7 @@
 
 </div>
 
-Vivo en San Vicente del Raspeig (Alicante, España). Estoy aprendiendo y construyendo en público: Python, aplicaciones web, y mi propio laboratorio doméstico con servidores, redes y automatizaciones.
+Estoy aprendiendo y construyendo en público: Python, aplicaciones web, y mi propio laboratorio doméstico con servidores, redes y automatizaciones.
 
 > 🚀 Siempre con un proyecto entre manos: me gusta automatizar lo repetitivo y entender cómo funcionan las cosas por dentro.
 
