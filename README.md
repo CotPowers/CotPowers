@@ -16,9 +16,6 @@
 # Hola, soy David 👋
 ### Desarrollador en formación · Python · Homelab · Automatización
 
-[![Seguidores](https://img.shields.io/github/followers/CotPowers?style=for-the-badge&logo=github&labelColor=101010&color=1f6feb)](https://github.com/CotPowers?tab=followers)
-[![Estrellas](https://img.shields.io/github/stars/CotPowers?style=for-the-badge&logo=github&labelColor=101010&color=1f6feb)](https://github.com/CotPowers?tab=repositories)
-
 </div>
 
 Estoy aprendiendo y construyendo en público: Python, aplicaciones web, y mi propio laboratorio doméstico con servidores, redes y automatizaciones.
