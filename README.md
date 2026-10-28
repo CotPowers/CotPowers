@@ -28,14 +28,6 @@ Estoy aprendiendo y construyendo en público: Python, aplicaciones web, y mi pro
 [![Instagram](https://img.shields.io/badge/Instagram-@david__cot-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/david_cot)
 [![Email](https://img.shields.io/badge/Email-warpwatch08@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:warpwatch08@gmail.com)
 
-## Tecnologías con las que trabajo
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,nextjs,react,postgres,prisma,docker,linux,git,github,nodejs&theme=dark" alt="Stack"/>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=proxmox,raspberrypi,cloudflare,nginx,bash,vscode,obsidian&theme=dark" alt="Infra y herramientas"/>
-</p>
 
 ## Proyectos destacados
 
