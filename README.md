@@ -44,6 +44,11 @@ Estoy aprendiendo y construyendo en público: Python, aplicaciones web, y mi pro
 
 [![PyParaTodos](https://img.shields.io/github/stars/CotPowers/PyParaTodos?label=PyParaTodos&style=social)](https://github.com/CotPowers/PyParaTodos)
 
+### 🏠 Casa Remota
+<a href="https://github.com/CotPowers/casa-remota"><img src="./assets/Casa-Remota.jpeg" style="height: 60%; width:60%;"/></a>
+
+[![casa-remota](https://img.shields.io/github/stars/CotPowers/casa-remota?label=casa-remota&style=social)](https://github.com/CotPowers/casa-remota)
+
 <!-- ============================================================
 ### 🧩 Proyecto 2
 <a href="https://github.com/CotPowers"><img src="./assets/proyecto-2.png" style="height: 60%; width:60%;"/></a>
