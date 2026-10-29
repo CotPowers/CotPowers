@@ -1,14 +1,3 @@
-<!-- ============================================================
-  PERFIL DE GITHUB · CotPowers
-  Para personalizar solo necesitas SUSTITUIR las imágenes de /assets
-  (mismo nombre de archivo):
-    Banner.jpg     1280x320   cabecera
-    avatar.png     400x400    foto / logo
-    proyecto-1.png 1280x640   banner del proyecto 1
-    proyecto-2.png 1280x640   banner del proyecto 2
-    proyecto-3.png 1280x640   banner del proyecto 3
-============================================================ -->
-
 ![Cabecera](./assets/Banner.jpg)
 
 <div align="center">
@@ -28,7 +17,6 @@ Estoy aprendiendo y construyendo en público: Python, aplicaciones web, y mi pro
 [![Instagram](https://img.shields.io/badge/Instagram-@david__cot-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/david_cot)
 [![Email](https://img.shields.io/badge/Email-warpwatch08@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:warpwatch08@gmail.com)
 
-
 ## Proyectos destacados
 
 ### 🐍 Python Para Todos
@@ -41,13 +29,6 @@ Estoy aprendiendo y construyendo en público: Python, aplicaciones web, y mi pro
 
 [![casa-remota](https://img.shields.io/github/stars/CotPowers/casa-remota?label=casa-remota&style=social)](https://github.com/CotPowers/casa-remota)
 
-<!-- ============================================================
-### 🧩 Proyecto 2
-<a href="https://github.com/CotPowers"><img src="./assets/proyecto-2.png" style="height: 60%; width:60%;"/></a>
-
-### 🏠 Proyecto 3
-<a href="https://github.com/CotPowers"><img src="./assets/proyecto-3.png" style="height: 60%; width:60%;"/></a>
-============================================================ -->
 ## Estadísticas de GitHub
 
 <p align="center">
