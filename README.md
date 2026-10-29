@@ -51,10 +51,6 @@ Estoy aprendiendo y construyendo en público: Python, aplicaciones web, y mi pro
 ## Estadísticas de GitHub
 
 <p align="center">
-  <img src="./assets/stats.svg" alt="Estadísticas de GitHub" width="720"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=CotPowers&theme=tokyonight&hide_border=true&border_radius=12&locale=es" alt="Racha"/>
 </p>
 
