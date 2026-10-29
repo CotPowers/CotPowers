@@ -51,12 +51,16 @@ Estoy aprendiendo y construyendo en público: Python, aplicaciones web, y mi pro
 ## Estadísticas de GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CotPowers&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CotPowers&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Lenguajes"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=CotPowers&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&rank_icon=github" alt="Estadísticas"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CotPowers&layout=donut-vertical&theme=tokyonight&hide_border=true&border_radius=12&langs_count=6" alt="Lenguajes"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CotPowers&theme=github-dark-blue&hide_border=true" alt="Racha"/>
+  <img src="https://streak-stats.demolab.com?user=CotPowers&theme=tokyonight&hide_border=true&border_radius=12&locale=es" alt="Racha"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CotPowers&theme=tokyo-night&bg_color=1a1b27&hide_border=true&area=true&custom_title=Actividad%20de%20contribuciones" alt="Actividad"/>
 </p>
 
 ---
